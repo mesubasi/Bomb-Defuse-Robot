@@ -5,7 +5,7 @@
 - Servo motors will be connected to pins 3,5,6,9 pwm. <br>
 - 4 DC motors need to be connected to analog pins.
 <br>
-<img src="https://i.ibb.co/q0y7s5V/IMG-20230329-005409.jpg" border="0">
+<img src="https://i.hizliresim.com/tob5myg.jpg" border="0">
 <br>
 <h2>Used Materials</h2>
 - Arduino Uno Card
