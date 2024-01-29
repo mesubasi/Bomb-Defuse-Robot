@@ -4,7 +4,6 @@
 - You can connect the Bluetooth module to pins 0 and 1. <br>
 - Servo motors will be connected to pins 3,5,6,9 pwm. <br>
 - 4 DC motors need to be connected to analog pins.
-<br>
 <img src="https://i.hizliresim.com/tob5myg.jpg" border="0">
 <br>
 <h2>Used Materials</h2>
