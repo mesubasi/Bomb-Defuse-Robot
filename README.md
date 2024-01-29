@@ -17,6 +17,8 @@
 <br>
 - HC06 or HC05 Bluetooth Module
 <br>
+- 18650 3.7V 2pcs Battery and Battery box 
+<br>
 - Jumper Cable
 <br>
 <h2>Mobile App</h2>
