@@ -4,7 +4,7 @@
 - You can connect the Bluetooth module to pins 0 and 1. <br>
 - Servo motors will be connected to pins 3,5,6,9 pwm. <br>
 - 4 DC motors need to be connected to analog pins.
-<img src="https://i.hizliresim.com/tob5myg.jpg" border="0">
+<img src="https://github.com/mesubasi/Bomb-Defuse-Robot/assets/88106043/91d9e7d2-fae1-45f2-b301-557b52ee85a3" border="0">
 <br>
 <h2>Used Materials</h2>
 - Arduino Uno Card
